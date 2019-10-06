@@ -1,5 +1,5 @@
-# PR-practice
-repository to practice PR
+# PR-practice  
+Pull Request practice
 
 contributor  
 utouto97  
