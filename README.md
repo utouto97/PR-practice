@@ -1,4 +1,7 @@
-# PR-practice
-repository to practice PR
+# PR-practice  
+Pull Request practice
 
-gamino33
+contributor  
+======    
+utouto97  
+gamino33  
