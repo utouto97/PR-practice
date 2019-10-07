@@ -1,8 +1,8 @@
-# PR-practice
+# PR-Practice
 
 Pull Request practice
 
-contributor  
+Contributors  
 ======  
 utouto97  
 gamino33  
@@ -11,5 +11,7 @@ jxb04
 MeTeoRise  
 as60160  
 saggu10417  
-shubham2704
-rogersmykenzie
+rogersmykenzie  
+shubham2704  
+hp250497  
+emrecil  
